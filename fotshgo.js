@@ -6,5 +6,5 @@ $(document).ready(function()
 $(document).on('click','.xepo_ads',function(e)
 {
   $(this).removeClass('xepo_ads');
-  window.open('https://reproachoctavian.com/j548xm0f?key=9d286f49129a379c2d2175427bda71f3', '_blank');
+  window.open('https://www.bestcpmnetwork.com/wcaws98grh?key=9c2eb96f97ce01466efad87e60b1b6cc', '_blank');
 });
