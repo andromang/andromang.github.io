@@ -1,4 +1,3 @@
-<script type="text/javascript">
 	atOptions = {
 		'key' : '8861d701c10d26b8d45e58c0604ada17',
 		'format' : 'iframe',
@@ -7,4 +6,3 @@
 		'params' : {}
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.displaynetworkcontent.com/8861d701c10d26b8d45e58c0604ada17/invoke.js"></scr' + 'ipt>');
-</script>
