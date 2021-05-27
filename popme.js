@@ -1,4 +1,4 @@
-var go_current     	= window.location.href;
+    var go_current     	= window.location.href;
     var reff     	= document.referrer;
     
 
@@ -15,7 +15,7 @@ var go_current     	= window.location.href;
                         ]);
 
 
-    var dir_type        = 'arsae'; //refresh, domain, path, arsae
+    var dir_type        = "arsae"; //refresh, domain, path, arsae
 
 
     if(dir_type == 'refresh')
