@@ -24,5 +24,5 @@ $(document).ready(function()
         window.open(direct_link_ads,"_blank");
         window.location.href = go_current;
     });
-
-});
+ 
+}); bago
