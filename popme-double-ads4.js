@@ -25,4 +25,4 @@ $(document).ready(function()
         window.location.href = go_current;
     });
  
-}); bago
+});
