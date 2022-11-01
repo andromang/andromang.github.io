@@ -7,7 +7,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.achievablecpmrevenue.com/cmfpw96bhp?key=e55aa488fa35119ada1576397d50334a",
+                            "https://www.profitablegatetocontent.com/txsizr7q?key=eccfffc6bab86651c2fd3b278126bf4d",
                         ]);
 
     var ars             = rChoice([
