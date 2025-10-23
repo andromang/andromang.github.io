@@ -7,7 +7,7 @@
 	}
 
     var direct_link_ads = rChoice([
-                            "https://www.highrevenuegate.com/abp9rxpru?key=244f42e0fc3af9f066e34636927e676f",
+                            "https://https://www.effectivegatecpm.com/jp7wt9skzt?key=914f151324404eff1a147945dd4faaff",
                         ]);
 
     var ars             = rChoice([
