@@ -1,13 +1,8 @@
-window.atOptions = {
-    'key': '46ae6ddb6151271d318313f84463d461',
-    'format': 'iframe',
-    'height': 50,
-    'width': 320,
-    'params': {}
-};
-
-var adScript = document.createElement("script");
-adScript.type = "text/javascript";
-adScript.src = "//www.highperformanceformat.com/46ae6ddb6151271d318313f84463d461/invoke.js";
-
-(document.head || document.body).appendChild(adScript);
+atOptions = {
+		'key' : 'b6226b8273fb8c5618b57a1cc54c7b86',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="//www.highperformanceformat.com/b6226b8273fb8c5618b57a1cc54c7b86/invoke.js"></scr' + 'ipt>');
