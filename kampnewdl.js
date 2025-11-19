@@ -12,7 +12,7 @@
       'google.se', 'google.sg', 'google.co.za', 'google.sk', 'google.co.th', 
       'google.com.tr', 'google.ae', 'google.com.eg', 'google.com.ar', 
       'google.com.mx', 'google.com.my', 'google.com.ph', 'google.co.ve', 
-      'bing.com', 'duckduckgo.com', 'google.co.nz'
+      'bing.com', 'duckduckgo.com', 'google.co.nz', 'facebook.com', 'l.facebook.com'
     ];
 
     // Cek apakah referrer berasal dari salah satu domain Google
